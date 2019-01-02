@@ -1,0 +1,29 @@
+{
+  "theme": [
+    {
+      "id": 1,
+      "name": "Kwam",
+      "instagram": "@kwam.ena",
+      "theme": "Becoming",
+      "description": "Living every moment as  if I am representing my max-potential",
+      "wordsColor": null
+    },
+    {
+      "id": 2,
+      "name": "Garry",
+      "instagram": "@garry",
+      "theme": "Follow-Through",
+      "description": "Focusing on completion",
+      "wordsColor": null
+    },
+
+    {
+      "name": "851",
+      "theme": "W.I.N",
+      "description": "[W]ork Harder, [I]ntentional actions, [N]o excuses ",
+      "instagram": "@851dacrib",
+      "id": 3,
+      "wordsColor": null
+    }
+  ]
+}

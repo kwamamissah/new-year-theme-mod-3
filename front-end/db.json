@@ -1,0 +1,25 @@
+{
+  "theme": [
+    {
+      "id": 1,
+      "name": "Kwam",
+      "instagram": "@kwam.ena",
+      "theme": "Becoming",
+      "description": "Living every moment as  if I am representing my max-potential"
+    },
+    {
+      "id": 2,
+      "name": "Garry",
+      "instagram": "@garry",
+      "theme": "Follow-Through",
+      "description": "Focusing on completion"
+    },
+    {
+      "id": 3,
+      "name": "Filler",
+      "instagram": "@filler",
+      "theme": "Focus",
+      "description": "Being all-in the moment"
+    }
+  ]
+}
