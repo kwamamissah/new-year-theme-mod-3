@@ -47,7 +47,19 @@ body {
 }
 
 .hide {
-  display: none;
+  display: none !important;
+}
+.delete-btn button {
+  height: 50%;
+  width: fill-available;
+}
+
+#theme-array button {
+  height: 1.5rem;
+  width: fill-available;
+  font-size: 12px;
+  float: left;
+  cursor: pointer;
 }
 
 button {
@@ -61,6 +73,8 @@ button {
   font-size: 18px;
   justify-self: center;
 }
+
+
 
 button:hover {
   background-color: rgb(241, 235, 205);
